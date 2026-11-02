@@ -1,15 +1,24 @@
 ---
-title: scikit-learn
-date: 2023-10-26
+title: 'Embodied Cognition & Andean Choreography ("Kuntur Tusuyta Tususunchis")'
+date: 2025-09-01
 links:
   - type: site
-    url: https://github.com/scikit-learn/scikit-learn
+    url: https://romancestudies.cornell.edu/
+  - icon: hero/document-text
+    name: Abstract
+    url: https://github.com/
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Second Language Acquisition
+  - Embodied Cognition
+  - Southern Quechua
+  - Digital Humanities
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+An interdisciplinary pedagogical framework repositioning traditional Andean dance not merely as folkloric performance, but as a measurable cognitive technology for Quechua Second Language Acquisition (SLA).
 
 <!--more-->
+
+### Highlights:
+- Integrated Embodied Cognition and Total Physical Response (TPR).
+- Designed an assessment roadmap combining Pre/Post-test SLA retention matrices with NLP-driven phonetic accuracy and response latency tracking.
+- Implemented and evaluated with heritage and second-language Quechua learners at Cornell University.

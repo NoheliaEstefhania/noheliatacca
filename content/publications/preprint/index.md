@@ -1,88 +1,69 @@
 ---
-title: "An example preprint / working paper"
+title: "Paqocha: A Retrieval-Augmented Model for Spanish to Cusco Quechua Translation"
+
 authors:
-- me
-date: "2019-04-07T00:00:00Z"
+  - J. F. Merma Portocarrero
+  - me
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+author_notes: []
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article"]
+date: '2025-10-01T00:00:00Z'
+publishDate: '2025-10-01T00:00:00Z'
 
-# Publication metadata — structured fields used by citation styles and BibTeX export.
-# Preprints typically have no formal venue; omit `publication` until the work is accepted.
+publication_types: ['paper-conference']
 
-peer_reviewed: false
+publication:
+  name: "SSILA Annual Meeting 2026 / First Glocal Conference on Quechua Languages and Cultures"
+  short_name: "SSILA / Glocal Quechua 2026"
+
+peer_reviewed: true
 open_access: true
-license: CC-BY-4.0
 
-funding:
-  - funder: "Wellcome Trust"
-    grant: "WT-219123/Z/19/Z"
+awards:
+  - name: "Conference Selection"
+    level: selected
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+funding: []
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: |
+  We present Paqocha, an innovative Spanish-to-Quechua (Cusco-Collao variety) machine translation system built on a Retrieval-Augmented Generation (RAG) framework. By integrating dynamic retrieval of aligned bilingual parallel corpus snippets and morphological templates, Paqocha mitigates vocabulary sparsity and hallucination issues commonly encountered when translating into low-resource, polysynthetic, and agglutinative indigenous languages.
+
+summary: |
+  A Retrieval-Augmented Generation (RAG) translation architecture from Spanish to Cusco Quechua presented at SSILA 2026, SAIL 2026, and UPenn/IU Glocal Conference.
 
 tags:
-- Large Language Models
+  - Machine Translation
+  - RAG
+  - Southern Quechua
+  - NLP
+  - Low-Resource Languages
 
 featured: true
 
 hugoblox:
   ids:
-    arxiv: 1512.04133v1
+    doi: ""
 
 links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
-- type: code
-  url: https://github.com/HugoBlox/kit
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
-- type: poster
-  url: "#"
-- type: source
-  url: "#"
-- type: video
-  url: https://youtube.com
-- type: custom
-  label: Custom Link
-  url: http://example.org
+  - type: pdf
+    url: ""
+  - type: code
+    url: https://github.com/
+  - type: slides
+    url: ""
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
+  caption: 'Paqocha RAG translation model'
+  focal_point: ''
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/projects/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects:
-- internal-project
+  - pytorch
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
 slides: ""
 ---
 
-This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+### Presentations & Acceptance:
+- **Society for the Study of the Indigenous Languages of the Americas (SSILA) Annual Meeting 2026**, New Orleans, LA. Accepted and presented.
+- **Symposium on American Indian Languages (SAIL 2026)**, The University of Arizona, Tucson, AZ. Accepted and presented.
+- **First Glocal Conference on Quechua Languages and Cultures 2026**, University of Pennsylvania & Indiana University Bloomington, Philadelphia, PA. Accepted and presented.

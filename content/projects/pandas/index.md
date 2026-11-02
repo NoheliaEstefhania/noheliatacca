@@ -1,15 +1,24 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: "Paqocha Analyzer: Audio Concordance & Morphological Breakdown for Quechua"
+date: 2025-06-01
 links:
   - type: site
-    url: https://github.com/pandas-dev/pandas
+    url: https://paqocha-analyzer.vercel.app/
+  - icon: brands/github
+    name: Code
+    url: https://github.com/
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - NLP
+  - Quechua
+  - CALL
+  - Morphological Analyzer
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Designed and deployed a reproducible, low-cost YouGlish-style Computer-Assisted Language Learning (CALL) web platform leveraging the spontaneous-speech corpus of Common Voice Puno Quechua (qxp).
 
 <!--more-->
+
+### Key Contributions:
+- Built an automated data ingestion pipeline filtering 1,222 transcribed audio recordings.
+- Processed speech data through a deterministic, rule-based morphological analyzer that decomposes agglutinative words into roots and suffixes via iterative right-to-left stripping alongside word-level forced timestamp alignment.
+- Interactive web interface with word search, synchronized audio playback, and morphosyntactic visualization: [paqocha-analyzer.vercel.app](https://paqocha-analyzer.vercel.app/).
