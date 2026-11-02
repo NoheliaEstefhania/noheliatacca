@@ -35,14 +35,14 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Research & Mission'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a Systems Engineer, researcher, and educator currently serving as a **Fulbright FLTA Fellow at Cornell University**.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My interdisciplinary research focuses on **Indigenous Language Revitalization (Southern Quechua)**, **Low-Resource Natural Language Processing (NLP)**, and **Computer-Assisted Language Learning (CALL)**. I design computational tools, deterministic morphological analyzers, and embodied learning frameworks (combining Quechua Second Language Acquisition with Andean dance) to bridge urban academic spaces and indigenous communities while championing Andean digital humanities and data sovereignty.
 
-        Please reach out to collaborate 😃
+        Feel free to reach out to collaborate! 😃
     design:
       columns: '1'
   - block: collection

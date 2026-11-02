@@ -2,115 +2,215 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Nohelia Estefhania Tacca Apaza
+  given: Nohelia Estefhania
+  family: Tacca Apaza
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: she/her
 postnominals:
-  - PhD
-  - MIEEE
+  - B.S. Systems Engineering
+  - B.S. Accounting
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🇵🇪"
+role: Fulbright FLTA Fellow & Researcher | Systems Engineer
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Systems Engineer and researcher specializing in Indigenous Language Revitalization (Southern Quechua),
+  Low-Resource Natural Language Processing (NLP), and Computer-Assisted Language Learning (CALL). Currently
+  serving as a Fulbright FLTA Fellow and Quechua Language Instructor at Cornell University.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Cornell University (Fulbright FLTA)
+    url: https://romancestudies.cornell.edu/
+  - name: Universidad Nacional de San Agustín de Arequipa (UNSA)
+    url: https://www.unsa.edu.pe/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
+    url: mailto:nt438@cornell.edu
+    label: Cornell Email
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/netaap/
+  - icon: brands/github
+    url: https://github.com/
+  - icon: brands/x
+    url: https://x.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Indigenous Language Revitalization (Southern Quechua)
+  - Low-Resource Natural Language Processing (NLP) & CALL
+  - Embodied Cognition & Second Language Acquisition (SLA)
+  - Andean Digital Humanities & Data Sovereignty
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: Visiting International Student & Audit Student (Non-Degree)
+    institution: Cornell University, Ithaca, NY, USA
+    start: 2025-08-01
+    end: 2026-05-31
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Sponsored by the Fulbright Program. Completed graduate and undergraduate coursework in Latin American Studies and Pedagogical Methodologies while serving as primary Quechua instructor. Graded coursework in International Teaching Assistant Development.
     button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      text: View details
+      url: https://romancestudies.cornell.edu/
+      icon: hero/arrow-top-right-on-square
+  - degree: Bachelor of Science (B.S.) in Systems Engineering
+    institution: Universidad Nacional de San Agustín de Arequipa (UNSA), Peru
+    start: 2020-03-01
+    end: 2024-12-31
+    summary: |
+      Research focus: Software architecture, human-centered computing, and educational technologies for indigenous language preservation and social impact.
+  - degree: Bachelor of Science (B.S.) in Accounting
+    institution: Universidad Nacional de San Agustín de Arequipa (UNSA), Peru
+    start: 2014-03-01
+    end: 2018-12-31
+    summary: |
+      Quantitative training in financial auditing, resource management, and socio-economic project evaluation.
+  - degree: International Exchange Student (CRISCOS Scholar)
+    institution: Universidad Católica del Norte (UCN), Antofagasta, Chile
+    start: 2017-03-01
+    end: 2017-07-31
+    summary: |
+      Public Accounting Program. Full academic exchange scholarship awarded by CRISCOS.
+  - degree: International Exchange & Research Seminar
+    institution: Universidad Santo Tomás (USTAMED), Medellín, Colombia
+    start: 2018-08-01
+    end: 2018-12-31
+    summary: |
+      International Business & Research Seminar Participant.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Quechua Language Instructor (Fulbright FLTA Fellow)
+    org: Cornell University (Department of Romance Studies / LACS)
+    start: 2025-08-01
+    end: 2026-05-31
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      Instruct Elementary Quechua I & II for undergraduate and graduate students. Designed original syllabi, multimedia materials, and interactive morphosyntactic exercises. Facilitate weekly Quechua Conversation Hours and cultural immersion workshops (Kuntur Tusuy).
     button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      text: Learn more
+      url: https://romancestudies.cornell.edu/
+      icon: hero/arrow-top-right-on-square
+  - role: Quechua Language Instructor
+    org: Language Center, Universidad Nacional de San Agustín (UNSA)
+    start: 2025-02-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Instruct undergraduate, graduate, and community students in Southern Quechua grammar, oral tradition, and Andean epistemology, integrating digital tools to bridge urban academic spaces with indigenous linguistic heritage.
+  - role: Founder & Lead Instructor
+    org: "AI for Children" (IA para Niños) & Robotics Workshops (Nuñoa, Puno)
+    start: 2024-01-01
+    summary: |
+      In collaboration with HOOP Peru & National Central University (NCU, Taiwan). Spearheaded educational robotics workshops introducing rural Andean children to AI, algorithmic logic, and robotics with international volunteers.
+  - role: Founder & Lead Instructor
+    org: "Discovering Opportunities" (Descubriendo Oportunidades) (Nuñoa, Puno)
+    start: 2024-01-01
+    summary: |
+      In collaboration with NCU Taiwan. Mentorship speaker series connecting rural high school students with higher education scholarships and post-secondary pathways.
+  - role: Assistant Researcher
+    org: Center for Research, Tech Transfer and Software Dev (CiTeSoft), UNSA
+    start: 2022-08-01
+    summary: |
+      Conduct multidisciplinary research at the intersection of Systems Engineering, computational linguistics, and human-centered software development.
+  - role: Software Development Pre-Professional Intern
+    org: Globant University, Peru
+    start: 2024-08-01
+    end: 2025-04-30
+    summary: |
+      Completed software engineering training and collaborative agile development projects within a leading global digital transformation organization.
+  - role: Head Coach in Coding & Robotics Program
+    org: Helping Overcome Obstacles in Peru (HOOP Peru), Arequipa
+    start: 2022-05-01
+    end: 2023-12-31
+    summary: |
+      Directed coding (Scratch) and educational robotics instruction for underserved children, mentoring volunteer instructors and developing project-based STEM learning modules.
+  - role: Quechua Linguistic Data Specialist & Transcriber
+    org: Sigma AI (Remote)
+    start: 2023-01-01
+    end: 2024-12-31
+    summary: |
+      Transcribed, segmented, and annotated spontaneous oral corpora in Puno (Collao) Quechua (qxp).
 
 skills:
-  - name: Technical Skills
+  - name: Research & Computational Linguistics
     items:
-      - label: Python
+      - label: Low-Resource NLP & RAG
         level: 5
-      - label: Machine Learning
+      - label: Morphological Analyzers & CALL
         level: 5
-      - label: Cloud Computing
+      - label: Second Language Acquisition (SLA)
+        level: 5
+      - label: Python & Data Processing
         level: 4
-  - name: Research & Communication
+      - label: Software Architecture
+        level: 4
+  - name: Teaching, Leadership & Outreach
     items:
-      - label: Academic Writing
+      - label: Quechua Language Pedagogy
         level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
+      - label: Culturally Responsive STEM Education
+        level: 5
+      - label: Community Engagement & Youth Mentoring
+        level: 5
+      - label: Academic Writing & Grants
         level: 4
 
 languages:
-  - name: English
+  - name: Quechua
     level: 5
-    label: Native
+    label: Native Speaker
   - name: Spanish
+    level: 5
+    label: Native Speaker
+  - name: English
     level: 4
-    label: Fluent
+    label: Advanced / Fluent (C1)
+  - name: Portuguese
+    level: 2
+    label: Elementary Proficiency (A2)
+  - name: French
+    level: 1
+    label: Basic Proficiency (A1)
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Aspire Social Impact Seed Fund Award
+    awarder: Aspire Institute
+    date: "2026-01-01"
+    summary: Awarded funding to develop the Leadership & Community Empowerment Initiative entirely in Quechua in Santa Rosa (Melgar, Puno, Peru).
+    icon: hero/trophy
+  - title: SIMBig Shared Task - Honorable Mention
+    awarder: SIMBig / Universidad Católica San Pablo, Arequipa
+    date: "2026-01-01"
+    summary: Awarded Honorable Mention for research paper on Paqocha Analyzer for Puno Quechua.
+    icon: hero/trophy
+  - title: Fulbright Foreign Language Teaching Assistant (FLTA) Fellowship
+    awarder: U.S. Department of State & IIE
+    date: "2025-08-01"
+    summary: Competitive fellowship hosted at Cornell University, Ithaca, NY, USA.
+    icon: hero/trophy
+  - title: Language Resource Center (LRC) Grants
+    awarder: Cornell University
+    date: "2025-09-01"
+    summary: Project Director for "Pachamamawan kawsayninchismanta" audiovisual resources & collaborator for "Intiq wawankunaq willakuyninkuna".
+    icon: hero/trophy
+  - title: Aspire Leaders Program Fellow (Cohort 3)
+    awarder: Aspire Institute
+    date: "2025-01-01"
+    summary: Selected for global leadership and social impact development program.
+    icon: hero/trophy
+  - title: Grace Hopper Celebration (GHC) Scholar
+    awarder: AnitaB Organization
+    date: "2022-09-01"
+    summary: Competitive fellowship recognizing emerging women leaders in computing and technology.
+    icon: hero/trophy
+  - title: College Horizons Outreach Program (CHOP+) Fellowship
+    awarder: U.S. Embassy in Peru
+    date: "2022-01-01"
+    summary: Competitive scholarship for indigenous Quechua youth focused on advanced English, social entrepreneurship, and community leadership.
+    icon: hero/trophy
+  - title: Beca Permanencia (Undergraduate Academic Excellence)
+    awarder: PRONABEC – Peruvian Ministry of Education
+    date: "2014-03-01"
+    summary: Full national scholarship for academic excellence throughout undergraduate studies.
     icon: hero/trophy
