@@ -13,32 +13,34 @@ postnominals:
   - B.S. Accounting
 status:
   icon: "🇵🇪"
-role: Fulbright FLTA Fellow & Researcher | Systems Engineer
+role: Quechua Language Instructor & Researcher | Systems Engineer
 bio: |
   Systems Engineer and researcher specializing in Indigenous Language Revitalization (Southern Quechua),
   Low-Resource Natural Language Processing (NLP), and Computer-Assisted Language Learning (CALL). Currently
-  serving as a Fulbright FLTA Fellow and Quechua Language Instructor at Cornell University.
+  Quechua Language Instructor at the Language Center of Universidad Nacional de San Agustín de Arequipa (UNSA).
+  Fulbright FLTA Fellow alumna (Cornell University, 2025–2026).
 
 affiliations:
-  - name: Cornell University (Fulbright FLTA)
-    url: https://romancestudies.cornell.edu/
   - name: Universidad Nacional de San Agustín de Arequipa (UNSA)
     url: https://www.unsa.edu.pe/
+  - name: Cornell University (Fulbright FLTA Alumni)
+    url: https://romancestudies.cornell.edu/
 
 links:
   - icon: at-symbol
-    url: mailto:nt438@cornell.edu
-    label: Cornell Email
+    url: mailto:ntacca@unsa.edu.pe
+    label: UNSA Email
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/netaap/
   - icon: brands/github
-    url: https://github.com/
-  - icon: brands/x
-    url: https://x.com/
+    url: https://github.com/NoheliaEstefhania
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=BUPCfeUAAAAJ&hl=es&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-0761-6698
+  - icon: hero/globe-alt
+    url: https://blogs.cornell.edu/quechua
+    label: Quechua Blog
 
 interests:
   - Indigenous Language Revitalization (Southern Quechua)
@@ -83,21 +85,43 @@ education:
       International Business & Research Seminar Participant.
 
 experience:
-  - role: Quechua Language Instructor (Fulbright FLTA Fellow)
-    org: Cornell University (Department of Romance Studies / LACS)
-    start: 2025-08-01
-    end: 2026-05-31
-    summary: |
-      Instruct Elementary Quechua I & II for undergraduate and graduate students. Designed original syllabi, multimedia materials, and interactive morphosyntactic exercises. Facilitate weekly Quechua Conversation Hours and cultural immersion workshops (Kuntur Tusuy).
-    button:
-      text: Learn more
-      url: https://romancestudies.cornell.edu/
-      icon: hero/arrow-top-right-on-square
   - role: Quechua Language Instructor
     org: Language Center, Universidad Nacional de San Agustín (UNSA)
     start: 2025-02-01
     summary: |
       Instruct undergraduate, graduate, and community students in Southern Quechua grammar, oral tradition, and Andean epistemology, integrating digital tools to bridge urban academic spaces with indigenous linguistic heritage.
+    button:
+      text: Language Center UNSA
+      url: https://www.unsa.edu.pe/
+      icon: hero/arrow-top-right-on-square
+  - role: Quechua Language Instructor (Fulbright FLTA Fellow)
+    org: Cornell University (Department of Romance Studies / LACS)
+    start: 2025-08-01
+    end: 2026-05-31
+    summary: |
+      Instructed Elementary Quechua I & II for undergraduate and graduate students. Designed original syllabi, multimedia materials, and interactive morphosyntactic exercises. Facilitated weekly Quechua Conversation Hours and cultural immersion workshops (Kuntur Tusuy).
+    button:
+      text: Quechua at Cornell
+      url: https://blogs.cornell.edu/quechua
+      icon: hero/arrow-top-right-on-square
+  - role: Active Member & Volunteer
+    org: World Economic Forum (WEF) - Arequipa Hub
+    start: 2023-01-01
+    summary: |
+      Active member of the Global Shapers Community / WEF Arequipa Hub, collaborating on social innovation, digital inclusion, and youth empowerment initiatives across the Arequipa region.
+    button:
+      text: WEF Arequipa Hub
+      url: https://initiatives.weforum.org/arequipa-hub/overview
+      icon: hero/arrow-top-right-on-square
+  - role: Assistant Researcher
+    org: Center for Research, Tech Transfer and Software Dev (CiTeSoft), UNSA
+    start: 2022-08-01
+    summary: |
+      Conduct multidisciplinary research at the intersection of Systems Engineering, computational linguistics, and human-centered software development.
+    button:
+      text: CiTeSoft UNSA
+      url: https://vri.unsa.edu.pe/institutos-y-laboratorios/centro-de-investigacion-transferencia-de-tecnologia-y-desarrollo-de-software-idi-citesoft
+      icon: hero/arrow-top-right-on-square
   - role: Founder & Lead Instructor
     org: '"AI for Children" (IA para Niños) & Robotics Workshops (Nuñoa, Puno)'
     start: 2024-01-01
@@ -108,30 +132,28 @@ experience:
     start: 2024-01-01
     summary: |
       In collaboration with NCU Taiwan. Mentorship speaker series connecting rural high school students with higher education scholarships and post-secondary pathways.
-  - role: Assistant Researcher
-    org: Center for Research, Tech Transfer and Software Dev (CiTeSoft), UNSA
-    start: 2022-08-01
-    summary: |
-      Conduct multidisciplinary research at the intersection of Systems Engineering, computational linguistics, and human-centered software development.
-  - role: Software Development Pre-Professional Intern
-    org: Globant University, Peru
-    start: 2024-08-01
-    end: 2025-04-30
-    summary: |
-      Completed software engineering training and collaborative agile development projects within a leading global digital transformation organization.
   - role: Head Coach in Coding & Robotics Program
     org: Helping Overcome Obstacles in Peru (HOOP Peru), Arequipa
     start: 2022-05-01
     end: 2023-12-31
     summary: |
       Directed coding (Scratch) and educational robotics instruction for underserved children, mentoring volunteer instructors and developing project-based STEM learning modules.
+    button:
+      text: HOOP Peru
+      url: https://www.hoopperu.org
+      icon: hero/arrow-top-right-on-square
+  - role: Software Development Pre-Professional Intern
+    org: Globant University, Peru
+    start: 2024-08-01
+    end: 2025-04-30
+    summary: |
+      Completed software engineering training and collaborative agile development projects within a leading global digital transformation organization.
   - role: Quechua Linguistic Data Specialist & Transcriber
     org: Sigma AI (Remote)
     start: 2023-01-01
     end: 2024-12-31
     summary: |
       Transcribed, segmented, and annotated spontaneous oral corpora in Puno (Collao) Quechua (qxp).
-
 skills:
   - name: Research & Computational Linguistics
     items:
@@ -179,35 +201,50 @@ awards:
     date: "2026-01-01"
     summary: Awarded funding to develop the Leadership & Community Empowerment Initiative entirely in Quechua in Santa Rosa (Melgar, Puno, Peru).
     icon: hero/trophy
+    button:
+      text: Aspire Leaders Program
+      url: https://www.aspireleaders.org/program/aspire-leaders-program
   - title: SIMBig Shared Task - Honorable Mention
     awarder: SIMBig / Universidad Católica San Pablo, Arequipa
     date: "2026-01-01"
-    summary: Awarded Honorable Mention for research paper on Paqocha Analyzer for Puno Quechua.
+    summary: Awarded Honorable Mention for research on Paqocha Analyzer for Puno Quechua presented at SIMBig 2026.
     icon: hero/trophy
   - title: Fulbright Foreign Language Teaching Assistant (FLTA) Fellowship
     awarder: U.S. Department of State & IIE
     date: "2025-08-01"
     summary: Competitive fellowship hosted at Cornell University, Ithaca, NY, USA.
     icon: hero/trophy
+    button:
+      text: Fulbright FLTA
+      url: https://www.fulbright.pe/beca-flta
   - title: Language Resource Center (LRC) Grants
     awarder: Cornell University
     date: "2025-09-01"
     summary: Project Director for "Pachamamawan kawsayninchismanta" audiovisual resources & collaborator for "Intiq wawankunaq willakuyninkuna".
     icon: hero/trophy
+    button:
+      text: Quechua Video Resources
+      url: https://blogs.cornell.edu/quechua/resources/videos
   - title: Aspire Leaders Program Fellow (Cohort 3)
     awarder: Aspire Institute
     date: "2025-01-01"
     summary: Selected for global leadership and social impact development program.
     icon: hero/trophy
-  - title: Grace Hopper Celebration (GHC) Scholar
-    awarder: AnitaB Organization
-    date: "2022-09-01"
-    summary: Competitive fellowship recognizing emerging women leaders in computing and technology.
-    icon: hero/trophy
+    button:
+      text: Aspire Institute
+      url: https://www.aspireleaders.org/program/aspire-leaders-program
   - title: College Horizons Outreach Program (CHOP+) Fellowship
     awarder: U.S. Embassy in Peru
     date: "2022-01-01"
     summary: Competitive scholarship for indigenous Quechua youth focused on advanced English, social entrepreneurship, and community leadership.
+    icon: hero/trophy
+    button:
+      text: Watch Video Story
+      url: https://youtu.be/Q3oQh1f0np8?si=VspORhuoAn0xyIEA
+  - title: Grace Hopper Celebration (GHC) Scholar
+    awarder: AnitaB Organization
+    date: "2022-09-01"
+    summary: Competitive fellowship recognizing emerging women leaders in computing and technology.
     icon: hero/trophy
   - title: Beca Permanencia (Undergraduate Academic Excellence)
     awarder: PRONABEC – Peruvian Ministry of Education
