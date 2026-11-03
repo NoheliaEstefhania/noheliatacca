@@ -16,6 +16,12 @@ main:
   - name: Talks
     url: /#talks
     weight: 40
+  - name: Teaching
+    url: courses/
+    weight: 50
+  - name: Opinion
+    url: blog/
+    weight: 60
   - name: Experience
     url: experience/
-    weight: 50
+    weight: 70
