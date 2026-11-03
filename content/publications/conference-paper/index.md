@@ -57,11 +57,13 @@ links:
   - type: pdf
     url: ""
   - type: code
-    url: https://github.com/
+    url: https://quechuabase.github.io/SimBigASR2026/
   - type: dataset
     url: https://commonvoice.mozilla.org/
   - type: slides
-    url: ""
+    url: https://canva.link/lh3vwba3q4nh8pj
+  - name: Conference
+    url: https://simbig.org/SIMBig2026/
 
 image:
   caption: 'Paqocha Analyzer platform'
