@@ -75,14 +75,4 @@ sections:
           - events
     design:
       view: card
-  - block: collection
-    id: opinion
-    content:
-      title: Writings & Opinion
-      filters:
-        folders:
-          - blog
-    design:
-      view: card
-      columns: 1
 ---
