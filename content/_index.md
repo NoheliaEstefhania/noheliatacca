@@ -46,7 +46,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: research
     content:
       title: Research Presentations & Conference Papers
       filters:
