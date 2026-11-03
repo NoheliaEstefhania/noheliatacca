@@ -146,3 +146,4 @@ Durante la configuración inicial y personalización del sitio se resolvieron lo
    - *Solución:* 
      - Se actualizó `hugoblox.yaml` y `netlify.toml` a **`0.169.0`**.
      - Se crearon plantillas de override locales en `layouts/_partials/page_links_div.html` y `layouts/_partials/functions/build_links.html` que aíslan y blindan el renderizado de botones contra cualquier cambio upstream de Hugo Blox.
+
