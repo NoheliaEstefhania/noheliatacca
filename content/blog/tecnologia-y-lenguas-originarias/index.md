@@ -25,3 +25,4 @@ Proyectos como analizadores morfológicos deterministas y modelos de recuperaci�
 La tecnología debe estar al servicio de la revitalización viva, en las aulas, en los hogares y en las comunidades. Este blog será un espacio para compartir ideas, debates y proyectos en esta intersección entre ingeniería, lingüística y cosmovisión andina.
 
 *¡Allillanchu jamurqanki! Bienvenidos a este diálogo.*
+

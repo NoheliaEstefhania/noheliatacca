@@ -21,3 +21,4 @@ Currently serving as Quechua Language Instructor at the **Language Center of Uni
 - Instruct undergraduate, graduate, and community students in Southern Quechua (Collao/Cusco-Puno varieties).
 - Emphasize conversational fluency, agglutinative morphology, and cultural contextualization.
 - Bridge academic urban environments with indigenous linguistic heritage using modern digital tools and Computer-Assisted Language Learning (CALL) methodologies.
+

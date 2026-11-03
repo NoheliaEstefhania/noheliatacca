@@ -24,3 +24,4 @@ During the 2025–2026 academic year, as a **Fulbright Foreign Language Teaching
 - **Interactive Morphosyntax:** Designed original multimedia exercises, communicative tasks, and morphosyntactic drills tailored for heritage and second-language learners.
 - **Embodied Learning & Cultural Immersion:** Facilitated weekly Quechua Conversation Hours and cultural workshops integrating traditional Andean dance (*Kuntur Tusuy*) as a cognitive vehicle for language acquisition.
 - **Digital Audiovisual Materials:** Developed open educational resources supported by Cornell Language Resource Center (LRC) grants to enhance listening comprehension and oral fluency.
+
