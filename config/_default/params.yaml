@@ -21,11 +21,11 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: "Indigenous Language Revitalization • Low-Resource NLP • Systems Engineering"
     # Site meta description for search engines and social sharing
-    description: "Academic portfolio and CV of Nohelia Estefhania Tacca Apaza: Fulbright FLTA Fellow at Cornell University, Systems Engineer, and researcher in Quechua NLP and CALL."
+    description: "Academic portfolio and CV of Nohelia Estefhania Tacca Apaza: Quechua Language Instructor at UNSA, Fulbright FLTA Fellow alumna (Cornell University), Systems Engineer, and researcher in Quechua NLP and CALL."
 
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+      twitter: "" # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
