@@ -39,15 +39,12 @@ links:
     name: Event Page
     url: https://suny.oneonta.edu/
   - icon: hero/document-text
-    name: Slides / Materials
-    url: https://github.com/
-  - icon: brands/youtube
-    name: Recording
-    url: https://youtube.com/
+    name: Workshop Materials (Canva)
+    url: https://canva.link/7m1pkzetak1lhna
 ---
 
-### Invited Academic Events & Talks:
-- **2026 (Apr 9):** Invited Workshop Leader: *"An Immersive and Interactive Exploration of Quechua Language and the Living Traditions of the Andes"*, SUNY Oneonta, Oneonta, NY, USA.
-- **2026:** Invited Guest Speaker & Workshop Co-Leader: *"The Living Voice of the Andes: An Interactive Journey into Quechua Culture with Nohelia Tacca and Eddy Machaca"*, Mount Holyoke College, South Hadley, MA, USA.
+### 🎙️ Invited Academic Events & Talks:
+- **2026 (Apr 9):** Invited Workshop Leader: *"An Immersive and Interactive Exploration of Quechua Language and the Living Traditions of the Andes"*, SUNY Oneonta, Oneonta, NY, USA. [View Materials](https://canva.link/7m1pkzetak1lhna)
+- **2026:** Invited Guest Speaker & Workshop Co-Leader: *"[The Living Voice of the Andes: An Interactive Journey into Quechua Culture](https://events.mtholyoke.edu/event/the-living-voice-of-the-andes-an-interactive-journey-into-quechua-culture-with-nohelia-tacca-and-eddy-machaca)"* (with Nohelia Tacca and Eddy Machaca), Mount Holyoke College, South Hadley, MA, USA. ([Speakers Details](https://events.mtholyoke.edu/event/the-living-voice-of-the-andes/speakers))
 - **2026:** Invited Guest Speaker: Quechua Language and Culture Program (Invited by Prof. Odi Gonzales), New York University (NYU), New York, NY, USA.
-- **2025 (Nov 11):** Invited Panelist: *"Fulbright Brings the World to Us"*, SUNY Oneonta (Morris Hall), Oneonta, NY, USA.
+- **2025 (Nov 11):** Invited Panelist: *"[Fulbright Brings the World to Us](https://oneontabulletin.wordpress.com/2025/11/10/fulbright-brings-the-world-to-us-nov-11)"*, SUNY Oneonta (Morris Hall), Oneonta, NY, USA.

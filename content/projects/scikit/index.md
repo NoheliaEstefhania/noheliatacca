@@ -6,7 +6,7 @@ links:
     url: https://romancestudies.cornell.edu/
   - icon: hero/document-text
     name: Abstract
-    url: https://github.com/
+    url: https://sites.google.com/view/cillaxi2026/program
 tags:
   - Second Language Acquisition
   - Embodied Cognition

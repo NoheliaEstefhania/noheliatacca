@@ -5,8 +5,8 @@ links:
   - type: site
     url: https://paqocha-analyzer.vercel.app/
   - icon: brands/github
-    name: Code
-    url: https://github.com/
+    name: Code & Dataset
+    url: https://quechuabase.github.io/SimBigASR2026/
 tags:
   - NLP
   - Quechua
