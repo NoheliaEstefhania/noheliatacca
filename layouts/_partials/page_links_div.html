@@ -1,0 +1,41 @@
+{{/* Clean, bulletproof page_links_div to bypass Hugo Blox SetInMap bug */}}
+{{ $page := . }}
+{{ if reflect.IsMap . }}
+  {{ if isset . "page" }}
+    {{ $page = .page }}
+  {{ end }}
+{{ end }}
+
+{{ $links := slice }}
+{{ with $page.Params.links }}
+  {{ $links = . }}
+{{ end }}
+
+{{ if or $links $page.Params.url_slides $page.Params.event_url }}
+<div class="flex flex-wrap gap-2 my-4">
+  {{ with $page.Params.event_url }}
+    <a href="{{ . }}" target="_blank" rel="noopener" class="inline-flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium rounded-lg border border-neutral-300 bg-white/80 hover:bg-neutral-100 text-neutral-800 dark:border-neutral-700 dark:bg-neutral-800 dark:text-neutral-200 dark:hover:bg-neutral-700 transition">
+      <svg class="w-4 h-4 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
+      <span>Event Details</span>
+    </a>
+  {{ end }}
+
+  {{ with $page.Params.url_slides }}
+    <a href="{{ . }}" target="_blank" rel="noopener" class="inline-flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium rounded-lg border border-neutral-300 bg-white/80 hover:bg-neutral-100 text-neutral-800 dark:border-neutral-700 dark:bg-neutral-800 dark:text-neutral-200 dark:hover:bg-neutral-700 transition">
+      <svg class="w-4 h-4 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 4h18M4 4h16v12a1 1 0 01-1 1H5a1 1 0 01-1-1V4z"></path></svg>
+      <span>Slides</span>
+    </a>
+  {{ end }}
+
+  {{ range $links }}
+    {{ $href := .url }}
+    {{ $name := or .name .type | default "Link" }}
+    {{ if $href }}
+      <a href="{{ $href }}" target="_blank" rel="noopener" class="inline-flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium rounded-lg border border-neutral-300 bg-white/80 hover:bg-neutral-100 text-neutral-800 dark:border-neutral-700 dark:bg-neutral-800 dark:text-neutral-200 dark:hover:bg-neutral-700 transition">
+        <svg class="w-4 h-4 text-neutral-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+        <span>{{ $name }}</span>
+      </a>
+    {{ end }}
+  {{ end }}
+</div>
+{{ end }}
