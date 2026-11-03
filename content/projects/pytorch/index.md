@@ -2,11 +2,11 @@
 title: "Paqocha: RAG Model for Spanish to Cusco-Collao Quechua Translation"
 date: 2025-03-01
 links:
-  - type: site
-    url: https://github.com/
-  - icon: brands/github
-    name: Code
-    url: https://github.com/
+  - type: custom
+    name: Abstract
+    url: https://docs.google.com/document/d/1znveU4X_yxw7cipU0u1RbPbrfyweX0D_xcQG2Wm1-Yo/edit?tab=t.0
+  - type: slides
+    url: https://canva.link/rof32o9qdce0xd1
 tags:
   - Machine Translation
   - RAG

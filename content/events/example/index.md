@@ -35,10 +35,11 @@ image:
   focal_point: Center
 
 links:
-  - icon: hero/calendar
+  - type: custom
     name: Event Page
     url: https://suny.oneonta.edu/
-  - icon: hero/document-text
+    icon: hero/calendar
+  - type: slides
     name: Workshop Materials (Canva)
     url: https://canva.link/7m1pkzetak1lhna
 ---

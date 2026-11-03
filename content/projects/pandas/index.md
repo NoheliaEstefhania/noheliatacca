@@ -4,7 +4,7 @@ date: 2025-06-01
 links:
   - type: site
     url: https://paqocha-analyzer.vercel.app/
-  - icon: brands/github
+  - type: code
     name: Code & Dataset
     url: https://quechuabase.github.io/SimBigASR2026/
 tags:

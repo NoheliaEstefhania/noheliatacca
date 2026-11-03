@@ -47,11 +47,14 @@ hugoblox:
 links:
   - type: slides
     url: https://canva.link/56ej2tmdflll1n7
-  - name: Project Book (Flipbook)
+  - type: custom
+    name: Project Book (Flipbook)
     url: https://heyzine.com/flip-book/c4324412e8.html
-  - name: CILLA XI Program
+  - type: custom
+    name: CILLA XI Program
     url: https://sites.google.com/view/cillaxi2026/program
-  - name: SAIL 2026
+  - type: custom
+    name: SAIL 2026
     url: https://sites.google.com/view/sail-uofa/home
 
 image:

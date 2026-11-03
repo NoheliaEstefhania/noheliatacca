@@ -4,9 +4,11 @@ date: 2025-09-01
 links:
   - type: site
     url: https://romancestudies.cornell.edu/
-  - icon: hero/document-text
-    name: Abstract
+  - type: custom
+    name: Program & Presentations
     url: https://sites.google.com/view/cillaxi2026/program
+  - type: slides
+    url: https://canva.link/56ej2tmdflll1n7
 tags:
   - Second Language Acquisition
   - Embodied Cognition

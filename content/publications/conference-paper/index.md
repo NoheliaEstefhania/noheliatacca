@@ -54,15 +54,14 @@ hugoblox:
 links:
   - type: site
     url: https://paqocha-analyzer.vercel.app/
-  - type: pdf
-    url: ""
   - type: code
     url: https://quechuabase.github.io/SimBigASR2026/
   - type: dataset
     url: https://commonvoice.mozilla.org/
   - type: slides
     url: https://canva.link/lh3vwba3q4nh8pj
-  - name: Conference
+  - type: custom
+    name: SIMBig 2026
     url: https://simbig.org/SIMBig2026/
 
 image:

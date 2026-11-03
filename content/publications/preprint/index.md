@@ -45,11 +45,13 @@ hugoblox:
     doi: ""
 
 links:
-  - name: Extended Abstract
+  - type: custom
+    name: Extended Abstract
     url: https://docs.google.com/document/d/1znveU4X_yxw7cipU0u1RbPbrfyweX0D_xcQG2Wm1-Yo/edit?tab=t.0
   - type: slides
     url: https://canva.link/rof32o9qdce0xd1
-  - name: SAIL 2026
+  - type: custom
+    name: SAIL 2026
     url: https://sites.google.com/view/sail-uofa/home
 
 image:
