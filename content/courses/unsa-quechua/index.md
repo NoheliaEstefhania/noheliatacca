@@ -11,7 +11,7 @@ tags:
 links:
   - type: site
     name: Language Center UNSA
-    url: https://www.unsa.edu.pe/
+    url: https://centrodeidiomas.unsa.edu.pe/
 ---
 
 ### Course Overview
