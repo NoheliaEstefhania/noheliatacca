@@ -19,15 +19,15 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-skills
-    id: skills
-    content:
-      title: Skills & Expertise
-      username: me
   - block: resume-awards
     id: awards
     content:
       title: Awards
+      username: me
+  - block: resume-skills
+    id: skills
+    content:
+      title: Skills & Expertise
       username: me
   - block: resume-languages
     id: languages

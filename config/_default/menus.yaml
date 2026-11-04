@@ -20,13 +20,13 @@ main:
     parent: experience
     url: experience/#education
     weight: 22
-  - name: Skills and Expertise
-    parent: experience
-    url: experience/#skills
-    weight: 23
   - name: Awards
     parent: experience
     url: experience/#awards
+    weight: 23
+  - name: Skills and Expertise
+    parent: experience
+    url: experience/#skills
     weight: 24
   - name: Languages
     parent: experience
