@@ -63,29 +63,41 @@ noheliatacca/
 │   └── module.yaml                    # Dependencias de módulos Hugo Blox
 ├── content/                           # Contenido público del sitio (páginas y posts)
 │   ├── _index.md                      # Estructura y bloques de la página de inicio (Landing Page)
-│   ├── experience.md                  # Página de experiencia laboral y habilidades
-│   ├── events/                        # Ponencias y conferencias invitadas
-│   │   └── example/index.md           # Taller en SUNY Oneonta, charlas en Mt. Holyoke y NYU
-│   ├── projects/                      # Proyectos de investigación tecnológica
+│   ├── experience.md                  # Página de experiencia, educación, habilidades, premios y lenguas
+│   ├── events/                        # Ponencias y conferencias invitadas (10 eventos individuales)
+│   │   ├── nyu-quechua/               # NYU - Quechua Language & Culture Program (Mayo 2026)
+│   │   ├── mtholyoke-2026/            # Mt. Holyoke - Living Voice of the Andes (Abril 2026)
+│   │   ├── cornell-acoustic-colonialism/ # Cornell - Mesa redonda Colonialismo Acústico (Abril 2026)
+│   │   ├── suny-oneonta-workshop/     # SUNY Oneonta - Taller vivencial de Quechua (Marzo 2026)
+│   │   ├── upenn-quechua-teaching/    # UPenn - Mesa redonda enseñanza de Quechua (Febrero 2026)
+│   │   ├── suny-oneonta-fulbright/    # SUNY Oneonta - Panel Fulbright Brings the World to Us (Nov 2025)
+│   │   ├── mtholyoke-2025/            # Mt. Holyoke - Living Voice of the Andes (Nov 2025)
+│   │   ├── cornell-world-languages-day/ # Cornell LRC - World Language Day (Oct 2025)
+│   │   ├── cornell-heritage-lectures/ # Cornell - Charlas para hablantes de herencia (2025-2026)
+│   │   └── cornell-cultural-workshops/ # Cornell - Talleres culturales vivenciales (2025-2026)
+│   ├── projects/                      # Proyectos comunitarios y voluntariados
+│   │   ├── _index.md                  # Landing con Liderazgo Comunitario (Chips) y Voluntariados (Lista)
 │   │   ├── pandas/index.md            # Paqocha Analyzer (Analizador morfológico en Vercel)
 │   │   ├── pytorch/index.md           # Paqocha RAG (Modelo de traducción español-quechua)
 │   │   └── scikit/index.md            # Kuntur Tusuy (Danza y adquisición del Quechua)
-│   └── publications/                  # Trabajos y ponencias presentadas en conferencias
-│       ├── conference-paper/index.md  # SIMBig 2026 (Mención Honrosa - Paqocha Analyzer)
-│       ├── journal-article/index.md   # CILLA XI / SAIL 2026 / First Glocal (Kuntur Tusuy)
-│       └── preprint/index.md          # SSILA / SAIL 2026 / First Glocal (Paqocha RAG)
+│   ├── publications/                  # Trabajos y ponencias presentadas en conferencias
+│   │   ├── _index.md                  # Vista citation (listado limpio Daniella Bar-Lev)
+│   │   ├── conference-paper/index.md  # SIMBig 2026 (Mención Honrosa - Paqocha Analyzer)
+│   │   ├── journal-article/index.md   # CILLA XI / SAIL 2026 / First Glocal (Kuntur Tusuy)
+│   │   └── preprint/index.md          # SSILA / SAIL 2026 / First Glocal (Paqocha RAG)
+│   ├── courses/                       # Cursos de docencia (Cornell y UNSA)
+│   └── blog/                          # Sección de opinión/ensayos (oculta de navegación por ahora)
 ├── data/authors/
-│   └── me.yaml                        # 🌟 ARCHIVO CLAVE: Datos de perfil, biografía, affiliations,
-│                                      # redes (Google Scholar, ORCID), educación, experiencia y premios
+│   └── me.yaml                        # 🌟 ARCHIVO CLAVE: Perfil, educación, experiencia, premios, lenguas
 ├── layouts/_partials/                 # Plantillas HTML locales personalizadas
 │   ├── page_links_div.html            # Renderizado seguro de botones de links con Tailwind
-│   └── functions/build_links.html     # Stub seguro para prevenir errores de Go map
+│   ├── functions/build_links.html     # Stub seguro para prevenir errores de Go map
+│   └── hooks/head-end/
+│       ├── github-button.html         # Botón de GitHub
+│       └── section-anchors.html       # Auto-scroll suave para anclas #education y #experience
 ├── static/uploads/
 │   └── resume.pdf                     # Archivo PDF descargable del CV
 ├── _archive/                          # Copia de seguridad de componentes demo no utilizados
-│   ├── blog/                          # Posts demo que utilizaban shortcodes no disponibles
-│   ├── courses/                       # Cursos de ejemplo
-│   └── slides/                        # Presentaciones interactivas demo en Reveal.js
 └── hugoblox.yaml                      # Configuración de compilación para Hugo Blox (v0.169.0)
 ```
 
