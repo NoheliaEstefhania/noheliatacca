@@ -5,23 +5,23 @@ name:
   display: Nohelia Estefhania Tacca Apaza
   given: Nohelia Estefhania
   family: Tacca Apaza
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  alternate: ''  # Example: çŽ‹ä¼Ÿ
+  pronunciation: ''  # Example: WÃ¡ng WÄ›i
   pronouns: she/her
 postnominals:
   - B.S. Systems Engineering
   - B.S. Accounting
 status:
-  icon: "🇵🇪"
+  icon: "ðŸ‡µðŸ‡ª"
 role: Quechua Language Instructor & Researcher | Systems Engineer
 bio: |
   Systems Engineer and researcher specializing in Indigenous Language Revitalization (Southern Quechua),
   Low-Resource Natural Language Processing (NLP), and Computer-Assisted Language Learning (CALL). Currently
-  Quechua Language Instructor at the Language Center of Universidad Nacional de San Agustín de Arequipa (UNSA).
-  Fulbright FLTA Fellow alumna (Cornell University, 2025–2026).
+  Quechua Language Instructor at the Language Center of Universidad Nacional de San AgustÃ­n de Arequipa (UNSA).
+  Fulbright FLTA Fellow alumna (Cornell University, 2025â€“2026).
 
 affiliations:
-  - name: Universidad Nacional de San Agustín de Arequipa (UNSA)
+  - name: Universidad Nacional de San AgustÃ­n de Arequipa (UNSA)
     url: https://www.unsa.edu.pe/
   - name: Cornell University (Fulbright FLTA Alumni)
     url: https://romancestudies.cornell.edu/
@@ -61,25 +61,25 @@ education:
       url: https://romancestudies.cornell.edu/
       icon: hero/arrow-top-right-on-square
   - degree: Bachelor of Science (B.S.) in Systems Engineering
-    institution: Universidad Nacional de San Agustín de Arequipa (UNSA), Peru
+    institution: Universidad Nacional de San AgustÃ­n de Arequipa (UNSA), Peru
     start: 2020-03-01
     end: 2024-12-31
     summary: |
       Research focus: Software architecture, human-centered computing, and educational technologies for indigenous language preservation and social impact.
   - degree: Bachelor of Science (B.S.) in Accounting
-    institution: Universidad Nacional de San Agustín de Arequipa (UNSA), Peru
+    institution: Universidad Nacional de San AgustÃ­n de Arequipa (UNSA), Peru
     start: 2014-03-01
     end: 2018-12-31
     summary: |
       Quantitative training in financial auditing, resource management, and socio-economic project evaluation.
   - degree: International Exchange Student (CRISCOS Scholar)
-    institution: Universidad Católica del Norte (UCN), Antofagasta, Chile
+    institution: Universidad CatÃ³lica del Norte (UCN), Antofagasta, Chile
     start: 2017-03-01
     end: 2017-07-31
     summary: |
       Public Accounting Program. Full academic exchange scholarship awarded by CRISCOS.
   - degree: International Exchange & Research Seminar
-    institution: Universidad Santo Tomás (USTAMED), Medellín, Colombia
+    institution: Universidad Santo TomÃ¡s (USTAMED), MedellÃ­n, Colombia
     start: 2018-08-01
     end: 2018-12-31
     summary: |
@@ -87,7 +87,7 @@ education:
 
 experience:
   - role: Quechua Language Instructor
-    org: Language Center, Universidad Nacional de San Agustín (UNSA)
+    org: Language Center, Universidad Nacional de San AgustÃ­n (UNSA)
     start: 2025-02-01
     summary: |
       Instruct undergraduate, graduate, and community students in Southern Quechua grammar, oral tradition, and Andean epistemology, integrating digital tools to bridge urban academic spaces with indigenous linguistic heritage.
@@ -124,12 +124,12 @@ experience:
       url: https://vri.unsa.edu.pe/institutos-y-laboratorios/centro-de-investigacion-transferencia-de-tecnologia-y-desarrollo-de-software-idi-citesoft
       icon: hero/arrow-top-right-on-square
   - role: Founder & Lead Instructor
-    org: '"AI for Children" (IA para Niños) & Robotics Workshops (Nuñoa, Puno)'
+    org: '"AI for Children" (IA para NiÃ±os) & Robotics Workshops (NuÃ±oa, Puno)'
     start: 2024-01-01
     summary: |
       In collaboration with HOOP Peru & National Central University (NCU, Taiwan). Spearheaded educational robotics workshops introducing rural Andean children to AI, algorithmic logic, and robotics with international volunteers.
   - role: Founder & Lead Instructor
-    org: '"Discovering Opportunities" (Descubriendo Oportunidades) (Nuñoa, Puno)'
+    org: '"Discovering Opportunities" (Descubriendo Oportunidades) (NuÃ±oa, Puno)'
     start: 2024-01-01
     summary: |
       In collaboration with NCU Taiwan. Mentorship speaker series connecting rural high school students with higher education scholarships and post-secondary pathways.
@@ -144,11 +144,15 @@ experience:
       url: https://www.hoopperu.org
       icon: hero/arrow-top-right-on-square
   - role: Software Development Pre-Professional Intern
-    org: Globant University, Peru
+    org: Darshana.io (Online)
     start: 2024-08-01
     end: 2025-04-30
     summary: |
       Completed software engineering training and collaborative agile development projects within a leading global digital transformation organization.
+    button:
+      text: Darshana.io
+      url: https://darshana.io
+      icon: hero/arrow-top-right-on-square
   - role: Quechua Linguistic Data Specialist & Transcriber
     org: Sigma AI (Remote)
     start: 2023-01-01
@@ -206,7 +210,7 @@ awards:
       text: Aspire Leaders Program
       url: https://www.aspireleaders.org/program/aspire-leaders-program
   - title: SIMBig Shared Task - Honorable Mention
-    awarder: SIMBig / Universidad Católica San Pablo, Arequipa
+    awarder: SIMBig / Universidad CatÃ³lica San Pablo, Arequipa
     date: "2026-01-01"
     summary: Awarded Honorable Mention for research on Paqocha Analyzer for Puno Quechua presented at SIMBig 2026.
     icon: hero/trophy
@@ -234,6 +238,19 @@ awards:
     button:
       text: Aspire Institute
       url: https://www.aspireleaders.org/program/aspire-leaders-program
+  - title: Code Your Future Scholarship
+    awarder: Code Your Future
+    date: "2024-08-01"
+    summary: Backend Software Development Training in Java.
+    icon: hero/trophy
+  - title: International Student Festival in Trondheim (ISFiT) Selected Delegate
+    awarder: ISFiT, Norway
+    date: "2023-01-01"
+    summary: Represented Peru in global dialogues on education, equity, and social impact in Trondheim, Norway.
+    icon: hero/trophy
+    button:
+      text: ISFiT Norway
+      url: https://www.isfit.org/
   - title: College Horizons Outreach Program (CHOP+) Fellowship
     awarder: U.S. Embassy in Peru
     date: "2022-01-01"
@@ -246,6 +263,11 @@ awards:
     awarder: AnitaB Organization
     date: "2022-09-01"
     summary: Competitive fellowship recognizing emerging women leaders in computing and technology.
+    icon: hero/trophy
+  - title: CRISCOS Academic Mobility Scholarship
+    awarder: Consejo de Rectores por la Integración de la Subregión Centro Oeste de Sudamérica
+    date: "2017-03-01"
+    summary: Full academic exchange grant at Universidad Católica del Norte (Antofagasta, Chile).
     icon: hero/trophy
   - title: Beca Permanencia (Undergraduate Academic Excellence)
     awarder: PRONABEC – Peruvian Ministry of Education

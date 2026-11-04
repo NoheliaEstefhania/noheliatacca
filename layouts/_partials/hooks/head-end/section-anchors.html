@@ -1,0 +1,26 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("h2").forEach(function (h) {
+      var text = h.textContent.trim().toLowerCase();
+      if (text === "education" && !document.getElementById("education")) {
+        h.id = "education";
+      } else if (text === "experience" && !document.getElementById("experience")) {
+        h.id = "experience";
+      } else if (text.indexOf("skills") !== -1 && !document.getElementById("skills")) {
+        h.id = "skills";
+      } else if (text.indexOf("awards") !== -1 && !document.getElementById("awards")) {
+        h.id = "awards";
+      } else if (text.indexOf("languages") !== -1 && !document.getElementById("languages")) {
+        h.id = "languages";
+      }
+    });
+    if (window.location.hash) {
+      var target = document.querySelector(window.location.hash);
+      if (target) {
+        setTimeout(function () {
+          target.scrollIntoView({ behavior: "smooth" });
+        }, 150);
+      }
+    }
+  });
+</script>

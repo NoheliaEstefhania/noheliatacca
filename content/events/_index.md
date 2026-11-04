@@ -1,12 +1,10 @@
 ---
-title: Recent & Upcoming Talks
+title: "Invited Talks, Cultural Workshops & Academic Events"
 cms_exclude: true
-#url: talk
 
-# View
+# View: card renders attractive visual cards with photos and action links
 view: card
 
-# Optional cover image (relative to `assets/media/` folder).
 image:
   caption: ''
   filename: ''
