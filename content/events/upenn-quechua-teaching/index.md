@@ -42,3 +42,4 @@ links:
 ---
 
 Invited Panelist for the roundtable: **Quechua Teaching in Higher Education** (moderated by Elwin Huamán), University of Pennsylvania (UPenn), Philadelphia, PA, USA. Organized within the **First Global Conference on Quechua Languages and Cultures 2026** (UPenn and Hamilton Lugar School at Indiana University Bloomington).
+

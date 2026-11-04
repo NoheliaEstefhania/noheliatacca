@@ -47,3 +47,4 @@ links:
 Invited Workshop Leader: **“An Immersive and Interactive Exploration of Quechua Language and the Living Traditions of the Andes”**, SUNY Oneonta, Oneonta, NY, USA. In person.
 
 Explore the Canva presentation slides: [Workshop Materials](https://canva.link/7m1pkzetak1lhna)
+

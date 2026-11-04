@@ -42,3 +42,4 @@ links:
 ---
 
 Invited Guest Speaker and Workshop Co-Leader: **“The Living Voice of the Andes: An Interactive Journey into Quechua Culture with Nohelia Tacca and Eddy Machaca”**, Mount Holyoke College, South Hadley, MA, USA. In person.
+

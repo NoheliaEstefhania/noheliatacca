@@ -51,3 +51,4 @@ Workshop Leader, **Department of Romance Studies, Cornell University**, Guest Le
 1. **“Ser y hablar Quechua”** (Fall 2025, two cohorts) &bull; [View Slides on Canva](https://canva.link/iu0duuf2u404ad2)
 2. **“Llaqtanchismanta, más allá de nuestras raíces”** (Spring 2026, two cohorts, with Prof. Eddy Machaca) &bull; [View Slides on Canva](https://canva.link/gre63zextm79g6w)
 3. **“Aylluy: De dónde venimos, hacia dónde vamos”** (with Prof. Eddy Machaca) &bull; [View Slides on Canva](https://canva.link/4my6q5uab64193e)
+

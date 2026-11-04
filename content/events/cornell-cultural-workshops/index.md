@@ -51,3 +51,4 @@ Workshop Leader and Guest Presenter, **Cornell Quechua Program Cultural Workshop
   - **Making Our Ponchos** &bull; *"Punchu Ruway"*
 - **Co-leader of:**
   - **Learning About Andean Music Through the Pan Flute** &bull; *"Takisunchis Antarawan"*
+

@@ -42,3 +42,4 @@ links:
 ---
 
 Invited Panelist Roundtable speaker: **Indigenous Language Politics: "Acoustic Colonialism" and Movements for Resurgence**. A conversation with **Dr. Luis Cárcamo-Huechante**, **Dr. María Aguilar**, **Prof. Nohelia Tacca Apaza**, and **Dr. Polly Lauer**, Cornell University, Ithaca, NY, USA.
+
