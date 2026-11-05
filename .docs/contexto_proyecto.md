@@ -47,7 +47,8 @@
 ```text
 noheliatacca/
 ├── .docs/                             # Documentación técnica e histórico de arquitectura
-│   └── contexto_proyecto.md           # 🌟 Este documento
+│   ├── contexto_proyecto.md           # 🌟 Arquitectura, stack y registro de planes
+│   └── TODO.md                        # 📋 Lista de tareas pendientes y próximos pasos
 ├── .github/workflows/                 # Automatizaciones de CI/CD para GitHub Actions
 │   └── deploy.yml                     # Workflow oficial de compilación y despliegue a GitHub Pages
 ├── assets/
