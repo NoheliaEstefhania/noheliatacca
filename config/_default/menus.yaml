@@ -34,17 +34,8 @@ main:
     weight: 25
 
   - name: Research
-    identifier: research
-    url: publications/
+    url: research/
     weight: 30
-  - name: Research Overview
-    parent: research
-    url: /#research
-    weight: 31
-  - name: Conference Presentations
-    parent: research
-    url: publications/
-    weight: 32
 
   - name: Projects
     identifier: projects

@@ -8,10 +8,8 @@ type: landing
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/resume.pdf
@@ -20,19 +18,14 @@ sections:
         education: ''
         interests: ''
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
           enable: true
-
-      # Name heading sizing to accommodate long or short names
       name:
-        size: md # Options: xs, sm, md, lg (default), xl
-
-      # Avatar customization
+        size: md
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: medium
+        shape: circle
   - block: markdown
     content:
       title: '📚 My Research & Mission'
@@ -43,36 +36,16 @@ sections:
         My interdisciplinary research focuses on **Indigenous Language Revitalization (Southern Quechua)**, **Low-Resource Natural Language Processing (NLP)**, and **Computer-Assisted Language Learning (CALL)**. I design computational tools, deterministic morphological analyzers, and embodied learning frameworks (combining Quechua Second Language Acquisition with Andean dance) to bridge urban academic spaces and indigenous communities while championing Andean digital humanities and data sovereignty.
 
         Feel free to reach out to collaborate! 😃
+
+        <div class="flex justify-center sm:justify-start mt-6">
+          <a class="relative inline-flex items-center gap-1 rounded-md border border-gray-300 bg-white px-3 py-2 pl-4 text-sm font-medium text-gray-500 hover:bg-gray-50 focus:z-20 dark:border-gray-500 dark:bg-gray-800 dark:text-gray-300 transition-colors"
+             href="research/">
+            <span>See all research</span>
+            <svg class="w-4 h-4 text-gray-400" viewBox="0 0 20 20" fill="currentColor">
+              <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"/>
+            </svg>
+          </a>
+        </div>
     design:
       columns: '1'
-  - block: collection
-    id: research
-    content:
-      title: Research Presentations & Conference Papers
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    id: projects
-    content:
-      title: Research Projects & Technologies
-      filters:
-        folders:
-          - projects
-    design:
-      view: card
-      columns: 2
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
 ---
