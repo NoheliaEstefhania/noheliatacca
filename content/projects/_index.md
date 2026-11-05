@@ -10,9 +10,9 @@ sections:
       title: "🌱 Community Leadership & Cultural Outreach"
       subtitle: "High-impact grassroots initiatives, decentralized technological access, and youth empowerment in native Quechua-speaking communities"
       text: |
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
+        <div class="space-y-6 my-8">
           
-          <div class="p-6 rounded-2xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 shadow-sm hover:shadow-md transition-all">
+          <div class="p-6 sm:p-7 rounded-2xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 shadow-sm hover:shadow-md transition-all">
             <div class="flex flex-wrap items-center gap-2 mb-3">
               <span class="px-2.5 py-0.5 text-xs font-semibold rounded-full bg-primary-100 text-primary-800 dark:bg-primary-900/60 dark:text-primary-300">Project Lead</span>
               <span class="px-2.5 py-0.5 text-xs font-medium rounded-full bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300">2026</span>
@@ -27,13 +27,13 @@ sections:
             </div>
           </div>
 
-          <div class="p-6 rounded-2xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 shadow-sm hover:shadow-md transition-all">
+          <div class="p-6 sm:p-7 rounded-2xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 shadow-sm hover:shadow-md transition-all">
             <div class="flex flex-wrap items-center gap-2 mb-3">
               <span class="px-2.5 py-0.5 text-xs font-semibold rounded-full bg-primary-100 text-primary-800 dark:bg-primary-900/60 dark:text-primary-300">Global Shaper</span>
               <span class="px-2.5 py-0.5 text-xs font-medium rounded-full bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300">2024 – Present</span>
               <span class="px-2.5 py-0.5 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-900/40 dark:text-emerald-300">📍 Arequipa, Peru</span>
             </div>
-            <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2">World Economic Forum (WEF) — Arequipa Hub</h3>
+            <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2">World Economic Forum (WEF) - Arequipa Hub</h3>
             <p class="text-sm text-gray-600 dark:text-gray-300 mb-4 leading-relaxed">
               Co-design and execute high-impact community projects focused on educational equity (SDG 4), youth leadership, and decentralized technological access across southern Peru.
             </p>
@@ -42,7 +42,7 @@ sections:
             </a>
           </div>
 
-          <div class="p-6 rounded-2xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 shadow-sm hover:shadow-md transition-all">
+          <div class="p-6 sm:p-7 rounded-2xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 shadow-sm hover:shadow-md transition-all">
             <div class="flex flex-wrap items-center gap-2 mb-3">
               <span class="px-2.5 py-0.5 text-xs font-semibold rounded-full bg-primary-100 text-primary-800 dark:bg-primary-900/60 dark:text-primary-300">Founder & Lead Instructor</span>
               <span class="px-2.5 py-0.5 text-xs font-medium rounded-full bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300">2024 – Present</span>
@@ -57,7 +57,7 @@ sections:
             </div>
           </div>
 
-          <div class="p-6 rounded-2xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 shadow-sm hover:shadow-md transition-all">
+          <div class="p-6 sm:p-7 rounded-2xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 shadow-sm hover:shadow-md transition-all">
             <div class="flex flex-wrap items-center gap-2 mb-3">
               <span class="px-2.5 py-0.5 text-xs font-semibold rounded-full bg-primary-100 text-primary-800 dark:bg-primary-900/60 dark:text-primary-300">Founder & Lead Instructor</span>
               <span class="px-2.5 py-0.5 text-xs font-medium rounded-full bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300">2024 – Present</span>
@@ -72,21 +72,57 @@ sections:
             </div>
           </div>
 
-          <div class="p-6 rounded-2xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 shadow-sm hover:shadow-md transition-all md:col-span-2">
+          <div class="p-6 sm:p-7 rounded-2xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 shadow-sm hover:shadow-md transition-all">
             <div class="flex flex-wrap items-center gap-2 mb-3">
               <span class="px-2.5 py-0.5 text-xs font-semibold rounded-full bg-primary-100 text-primary-800 dark:bg-primary-900/60 dark:text-primary-300">Organizer</span>
               <span class="px-2.5 py-0.5 text-xs font-medium rounded-full bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300">2024 – 2025</span>
               <span class="px-2.5 py-0.5 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-900/40 dark:text-emerald-300">📍 Melgar & Azángaro Provinces, Puno</span>
             </div>
             <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2">Workshop "Empowering Andean Youth Through Social Leadership"</h3>
-            <p class="text-sm text-gray-600 dark:text-gray-300 mb-2 leading-relaxed">
+            <p class="text-sm text-gray-600 dark:text-gray-300 mb-3 leading-relaxed">
               Delivered interactive youth leadership workshops empowering high school students across four key public institutions in Puno:
             </p>
-            <div class="flex flex-wrap gap-2 mt-3">
+            <div class="flex flex-wrap gap-2">
               <span class="px-3 py-1 bg-gray-100 dark:bg-gray-800 text-xs rounded-lg text-gray-700 dark:text-gray-300">Domingo Savio High School (Nuñoa)</span>
               <span class="px-3 py-1 bg-gray-100 dark:bg-gray-800 text-xs rounded-lg text-gray-700 dark:text-gray-300">Túpac Amaru High School (Nuñoa)</span>
               <span class="px-3 py-1 bg-gray-100 dark:bg-gray-800 text-xs rounded-lg text-gray-700 dark:text-gray-300">Siervos de Dios High School (Crucero)</span>
               <span class="px-3 py-1 bg-gray-100 dark:bg-gray-800 text-xs rounded-lg text-gray-700 dark:text-gray-300">San Agustín High School (Samán)</span>
+            </div>
+          </div>
+
+          <div class="p-6 sm:p-7 rounded-2xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 shadow-sm hover:shadow-md transition-all">
+            <div class="flex flex-wrap items-center gap-2 mb-3">
+              <span class="px-2.5 py-0.5 text-xs font-semibold rounded-full bg-primary-100 text-primary-800 dark:bg-primary-900/60 dark:text-primary-300">Project Director</span>
+              <span class="px-2.5 py-0.5 text-xs font-medium rounded-full bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300">2025 – 2026</span>
+              <span class="px-2.5 py-0.5 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-900/40 dark:text-emerald-300">📍 Cornell University, Ithaca, NY</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2">Pachamamawan kawsayninchismanta, Our Life with the Pachamama: Real-Life Audiovisual Resources for Elementary Quechua</h3>
+            <p class="text-sm text-gray-600 dark:text-gray-300 mb-4 leading-relaxed">
+              Project Director alongside Prof. Mary K. Redmond for a multimedia pedagogical initiative funded by the Language Resource Center (LRC) Grant. Developed authentic audiovisual instructional resources documenting real-life cultural practices and dialogues to enhance elementary Quechua language acquisition.
+            </p>
+            <div class="flex flex-wrap items-center justify-between gap-3 text-xs">
+              <span class="text-gray-500 font-medium">Grant: Language Resource Center (LRC) Grant, Cornell University</span>
+              <a href="https://blogs.cornell.edu/quechua/resources/videos/" target="_blank" rel="noopener" class="inline-flex items-center font-semibold text-primary-600 hover:text-primary-700 dark:text-primary-400">
+                Watch Real-Life Video Resources →
+              </a>
+            </div>
+          </div>
+
+          <div class="p-6 sm:p-7 rounded-2xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 shadow-sm hover:shadow-md transition-all">
+            <div class="flex flex-wrap items-center gap-2 mb-3">
+              <span class="px-2.5 py-0.5 text-xs font-semibold rounded-full bg-primary-100 text-primary-800 dark:bg-primary-900/60 dark:text-primary-300">Project Collaborator</span>
+              <span class="px-2.5 py-0.5 text-xs font-medium rounded-full bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300">2025 – 2026</span>
+              <span class="px-2.5 py-0.5 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-900/40 dark:text-emerald-300">📍 Cornell University, Ithaca, NY</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2">"Intiq wawankunaq willakuyninkuna: Andean Stories in Elementary Quechua"</h3>
+            <p class="text-sm text-gray-600 dark:text-gray-300 mb-4 leading-relaxed">
+              Collaborative educational project with Prof. Vanessa Gubbins, awarded funding by the Language Resource Center (LRC) Grant. Created an interactive illustrated digital flipbook featuring Andean stories designed specifically as pedagogical reading material for elementary Quechua learners.
+            </p>
+            <div class="flex flex-wrap items-center justify-between gap-3 text-xs">
+              <span class="text-gray-500 font-medium">Grant: Language Resource Center (LRC) Grant, Cornell University</span>
+              <a href="https://heyzine.com/flip-book/c4324412e8.html" target="_blank" rel="noopener" class="inline-flex items-center font-semibold text-primary-600 hover:text-primary-700 dark:text-primary-400">
+                Read Interactive Flipbook →
+              </a>
             </div>
           </div>
 
