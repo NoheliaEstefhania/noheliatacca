@@ -46,7 +46,7 @@ hugoblox:
 
 links:
   - type: custom
-    name: Extended Abstract
+    name: SSILA 2026
     url: https://docs.google.com/document/d/1znveU4X_yxw7cipU0u1RbPbrfyweX0D_xcQG2Wm1-Yo/edit?tab=t.0
   - type: slides
     url: https://canva.link/rof32o9qdce0xd1
