@@ -48,12 +48,26 @@ sections:
               <span class="px-2.5 py-0.5 text-xs font-medium rounded-full bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300">2024 – Present</span>
               <span class="px-2.5 py-0.5 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-900/40 dark:text-emerald-300">📍 Nuñoa (Melgar, Puno)</span>
             </div>
-            <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2">"AI for Children" (IA para Niños) & Educational Robotics</h3>
+            <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2">AI for Children (IA para Niños) & Educational Robotics</h3>
             <p class="text-sm text-gray-600 dark:text-gray-300 mb-4 leading-relaxed">
               Spearheaded the 1st, 2nd, and 3rd editions of the Educational Robotics Workshop and "AI for Children" initiative in the native Quechua-speaking community of Nuñoa. Designed culturally responsive curricula introducing rural Andean children to Artificial Intelligence, algorithmic logic, and robotics in partnership with international volunteers from Taiwan, Colombia, the US, and Peru.
             </p>
             <div class="flex items-center gap-2 text-xs text-gray-500">
               <span class="font-medium">Collaborators:</span> HOOP Peru & National Central University (NCU, Taiwan)
+            </div>
+            <div class="mt-3 flex flex-col gap-1.5">
+              <a href="https://docs.google.com/document/d/1y5m3ikNdqrorTj9dyTwAKLyChpNdMgG-/edit?usp=sharing&ouid=116179804484127718575&rtpof=true&sd=true" target="_blank" rel="noopener" class="inline-flex items-center text-xs font-semibold text-primary-600 hover:text-primary-700 dark:text-primary-400">
+                Explore the 2023 report →
+              </a>
+              <a href="https://docs.google.com/document/d/1lH6tkhjM6TlzrqBL16gAHrutLyT1BkEs/edit?usp=sharing&ouid=116179804484127718575&rtpof=true&sd=true" target="_blank" rel="noopener" class="inline-flex items-center text-xs font-semibold text-primary-600 hover:text-primary-700 dark:text-primary-400">
+                Explore the 2024 report →
+              </a>
+              <a href="https://docs.google.com/document/d/1VKa4FsN8Rwxe_oUSvm7PhRkVD6qQ-dLf/edit?usp=sharing&ouid=116179804484127718575&rtpof=true&sd=true" target="_blank" rel="noopener" class="inline-flex items-center text-xs font-semibold text-primary-600 hover:text-primary-700 dark:text-primary-400">
+                Explore the 2025 report →
+              </a>
+              <a href="https://docs.google.com/document/d/110puru0wbdBvjUFq4g6ksLDrMVPFomSf/edit?usp=sharing&ouid=116179804484127718575&rtpof=true&sd=true" target="_blank" rel="noopener" class="inline-flex items-center text-xs font-semibold text-primary-600 hover:text-primary-700 dark:text-primary-400">
+                Explore the 2026 report →
+              </a>
             </div>
           </div>
 
@@ -63,7 +77,7 @@ sections:
               <span class="px-2.5 py-0.5 text-xs font-medium rounded-full bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300">2024 – Present</span>
               <span class="px-2.5 py-0.5 text-xs font-medium rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-900/40 dark:text-emerald-300">📍 Nuñoa (Melgar, Puno)</span>
             </div>
-            <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2">"Discovering Opportunities" (Descubriendo Oportunidades)</h3>
+            <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2">Discovering Opportunities (Descubriendo Oportunidades)</h3>
             <p class="text-sm text-gray-600 dark:text-gray-300 mb-4 leading-relaxed">
               Organized and led a mentorship speaker series connecting high school students in rural Puno with higher education scholarships, university admissions, and post-secondary pathways, featuring role models from similar socioeconomic and cultural backgrounds.
             </p>

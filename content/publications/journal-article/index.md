@@ -48,9 +48,6 @@ links:
   - type: slides
     url: https://canva.link/56ej2tmdflll1n7
   - type: custom
-    name: Project Book (Flipbook)
-    url: https://heyzine.com/flip-book/c4324412e8.html
-  - type: custom
     name: CILLA XI Program
     url: https://sites.google.com/view/cillaxi2026/program
   - type: custom
@@ -73,4 +70,3 @@ slides: ""
 - **[Symposium on American Indian Languages (SAIL 2026)](https://sites.google.com/view/sail-uofa/home)**, The University of Arizona, Tucson, AZ.
 - **[First Glocal Conference on Quechua Languages and Cultures 2026](https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/c/16/files/2026/02/First-Glocal-Conference-on-Quechua-Languages-and-Cultures-2026-PROGRAM-2-1.pdf)**, Quechua Language and Culture Program at University of Pennsylvania & Hamilton Lugar School at Indiana University Bloomington, Philadelphia, PA.
 
-📖 **Explore the project flipbook:** [Interactive Digital Book](https://heyzine.com/flip-book/c4324412e8.html)
