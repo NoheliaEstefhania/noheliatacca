@@ -57,7 +57,7 @@ links:
   - type: code
     url: https://quechuabase.github.io/SimBigASR2026/
   - type: dataset
-    url: https://commonvoice.mozilla.org/
+    url: https://mozilladatacollective.com/datasets/cmu60wldk00jcnq07eaxdrdl5
   - type: slides
     url: https://canva.link/lh3vwba3q4nh8pj
   - type: custom
