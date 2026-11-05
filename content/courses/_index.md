@@ -4,5 +4,5 @@ summary: "Courses instructed in Quechua Language, Andean Culture, and STEM educa
 view: article-grid
 ---
 
-Welcome to my teaching archive. Here you will find information, pedagogical frameworks, and syllabi from the Quechua language and culture courses I have instructed.
+Welcome to my teaching archive. Here you will find information and pedagogical frameworks of the Quechua language and culture courses I have instructed.
 
