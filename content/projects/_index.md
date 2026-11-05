@@ -22,8 +22,9 @@ sections:
             <p class="text-sm text-gray-600 dark:text-gray-300 mb-4 leading-relaxed">
               Led educational empowerment, leadership mentoring, and digital inclusion workshops conducted entirely in the Quechua language for high-Andean youth, fostering pathways to higher education and community-driven innovation. Awarded the Aspire Social Impact Seed Fund Award.
             </p>
-            <div class="flex items-center gap-2 text-xs text-gray-500">
-              <span class="font-medium">Partner:</span> Aspire Institute
+            <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg bg-gray-50 dark:bg-gray-800/60 border border-gray-200 dark:border-gray-700/60 text-xs">
+              <span class="font-semibold text-primary-600 dark:text-primary-400">Partner:</span>
+              <span class="text-gray-700 dark:text-gray-200 font-medium">Aspire Institute</span>
             </div>
           </div>
 
@@ -52,8 +53,9 @@ sections:
             <p class="text-sm text-gray-600 dark:text-gray-300 mb-4 leading-relaxed">
               Spearheaded the 1st, 2nd, and 3rd editions of the Educational Robotics Workshop and "AI for Children" initiative in the native Quechua-speaking community of Nuñoa. Designed culturally responsive curricula introducing rural Andean children to Artificial Intelligence, algorithmic logic, and robotics in partnership with international volunteers from Taiwan, Colombia, the US, and Peru.
             </p>
-            <div class="flex items-center gap-2 text-xs text-gray-500">
-              <span class="font-medium">Collaborators:</span> HOOP Peru & National Central University (NCU, Taiwan)
+            <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg bg-gray-50 dark:bg-gray-800/60 border border-gray-200 dark:border-gray-700/60 text-xs">
+              <span class="font-semibold text-primary-600 dark:text-primary-400">Collaborators:</span>
+              <span class="text-gray-700 dark:text-gray-200 font-medium">HOOP Peru & National Central University (NCU, Taiwan)</span>
             </div>
             <div class="mt-3 flex flex-col gap-1.5">
               <a href="https://docs.google.com/document/d/1y5m3ikNdqrorTj9dyTwAKLyChpNdMgG-/edit?usp=sharing&ouid=116179804484127718575&rtpof=true&sd=true" target="_blank" rel="noopener" class="inline-flex items-center text-xs font-semibold text-primary-600 hover:text-primary-700 dark:text-primary-400">
@@ -81,8 +83,9 @@ sections:
             <p class="text-sm text-gray-600 dark:text-gray-300 mb-4 leading-relaxed">
               Organized and led a mentorship speaker series connecting high school students in rural Puno with higher education scholarships, university admissions, and post-secondary pathways, featuring role models from similar socioeconomic and cultural backgrounds.
             </p>
-            <div class="flex items-center gap-2 text-xs text-gray-500">
-              <span class="font-medium">Collaborator:</span> National Central University (NCU, Taiwan)
+            <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg bg-gray-50 dark:bg-gray-800/60 border border-gray-200 dark:border-gray-700/60 text-xs">
+              <span class="font-semibold text-primary-600 dark:text-primary-400">Collaborator:</span>
+              <span class="text-gray-700 dark:text-gray-200 font-medium">National Central University (NCU, Taiwan)</span>
             </div>
           </div>
 
@@ -115,7 +118,10 @@ sections:
               Project Director alongside Prof. Mary K. Redmond for a multimedia pedagogical initiative funded by the Language Resource Center (LRC) Grant. Developed authentic audiovisual instructional resources documenting real-life cultural practices and dialogues to enhance elementary Quechua language acquisition.
             </p>
             <div class="flex flex-wrap items-center justify-between gap-3 text-xs">
-              <span class="text-gray-500 font-medium">Grant: Language Resource Center (LRC) Grant, Cornell University</span>
+              <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg bg-gray-50 dark:bg-gray-800/60 border border-gray-200 dark:border-gray-700/60 text-xs">
+                <span class="font-semibold text-primary-600 dark:text-primary-400">Grant:</span>
+                <span class="text-gray-700 dark:text-gray-200 font-medium">Language Resource Center (LRC) Grant, Cornell University</span>
+              </div>
               <a href="https://blogs.cornell.edu/quechua/resources/videos/" target="_blank" rel="noopener" class="inline-flex items-center font-semibold text-primary-600 hover:text-primary-700 dark:text-primary-400">
                 Watch Real-Life Video Resources →
               </a>
@@ -133,7 +139,10 @@ sections:
               Collaborative educational project with Prof. Vanessa Gubbins, awarded funding by the Language Resource Center (LRC) Grant. Created an interactive illustrated digital flipbook featuring Andean stories designed specifically as pedagogical reading material for elementary Quechua learners.
             </p>
             <div class="flex flex-wrap items-center justify-between gap-3 text-xs">
-              <span class="text-gray-500 font-medium">Grant: Language Resource Center (LRC) Grant, Cornell University</span>
+              <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg bg-gray-50 dark:bg-gray-800/60 border border-gray-200 dark:border-gray-700/60 text-xs">
+                <span class="font-semibold text-primary-600 dark:text-primary-400">Grant:</span>
+                <span class="text-gray-700 dark:text-gray-200 font-medium">Language Resource Center (LRC) Grant, Cornell University</span>
+              </div>
               <a href="https://heyzine.com/flip-book/c4324412e8.html" target="_blank" rel="noopener" class="inline-flex items-center font-semibold text-primary-600 hover:text-primary-700 dark:text-primary-400">
                 Read Interactive Flipbook →
               </a>
@@ -157,8 +166,10 @@ sections:
                 Promoted the preservation, dissemination, and live performance of traditional Peruvian and Andean choreographies.
               </p>
             </div>
-            <div class="text-xs font-semibold text-gray-500 whitespace-nowrap">
-              Arequipa, Peru &bull; May 2024 – Dec 2024
+            <div class="text-xs whitespace-nowrap">
+              <span class="text-gray-700 dark:text-gray-300 font-medium">Arequipa, Peru</span>
+              <span class="text-gray-400 dark:text-gray-600 mx-1">&bull;</span>
+              <span class="font-semibold text-primary-600 dark:text-primary-400">May 2024 – Dec 2024</span>
             </div>
           </div>
 
@@ -169,8 +180,10 @@ sections:
                 Taught Spanish language classes and Latin American cultural workshops to children aged 11–13.
               </p>
             </div>
-            <div class="text-xs font-semibold text-gray-500 whitespace-nowrap">
-              São Paulo, Brazil &bull; Jan 2022 – Feb 2022
+            <div class="text-xs whitespace-nowrap">
+              <span class="text-gray-700 dark:text-gray-300 font-medium">São Paulo, Brazil</span>
+              <span class="text-gray-400 dark:text-gray-600 mx-1">&bull;</span>
+              <span class="font-semibold text-primary-600 dark:text-primary-400">Jan 2022 – Feb 2022</span>
             </div>
           </div>
 
@@ -181,8 +194,10 @@ sections:
                 Delivered virtual early childhood English education for children across Andean and Southern Cone regions during the COVID-19 pandemic.
               </p>
             </div>
-            <div class="text-xs font-semibold text-gray-500 whitespace-nowrap">
-              Peru &bull; 2021
+            <div class="text-xs whitespace-nowrap">
+              <span class="text-gray-700 dark:text-gray-300 font-medium">Peru</span>
+              <span class="text-gray-400 dark:text-gray-600 mx-1">&bull;</span>
+              <span class="font-semibold text-primary-600 dark:text-primary-400">2021</span>
             </div>
           </div>
 
@@ -193,8 +208,10 @@ sections:
                 Delivered virtual mathematics mentoring and academic support for high school students across South America.
               </p>
             </div>
-            <div class="text-xs font-semibold text-gray-500 whitespace-nowrap">
-              Peru, Bolivia & Paraguay &bull; Dec 2020 – Aug 2021
+            <div class="text-xs whitespace-nowrap">
+              <span class="text-gray-700 dark:text-gray-300 font-medium">Peru, Bolivia & Paraguay</span>
+              <span class="text-gray-400 dark:text-gray-600 mx-1">&bull;</span>
+              <span class="font-semibold text-primary-600 dark:text-primary-400">Dec 2020 – Aug 2021</span>
             </div>
           </div>
 
@@ -205,8 +222,10 @@ sections:
                 Facilitated cognitive skill development, youth mentoring, and research on community social problems.
               </p>
             </div>
-            <div class="text-xs font-semibold text-gray-500 whitespace-nowrap">
-              Peru &bull; Dec 2020 – Mar 2021
+            <div class="text-xs whitespace-nowrap">
+              <span class="text-gray-700 dark:text-gray-300 font-medium">Peru</span>
+              <span class="text-gray-400 dark:text-gray-600 mx-1">&bull;</span>
+              <span class="font-semibold text-primary-600 dark:text-primary-400">Dec 2020 – Mar 2021</span>
             </div>
           </div>
 
@@ -217,8 +236,10 @@ sections:
                 Provided academic mentoring and community integration programming for youth in underserved settlements.
               </p>
             </div>
-            <div class="text-xs font-semibold text-gray-500 whitespace-nowrap">
-              Antofagasta, Chile &bull; May 2017 – Jul 2017
+            <div class="text-xs whitespace-nowrap">
+              <span class="text-gray-700 dark:text-gray-300 font-medium">Antofagasta, Chile</span>
+              <span class="text-gray-400 dark:text-gray-600 mx-1">&bull;</span>
+              <span class="font-semibold text-primary-600 dark:text-primary-400">May 2017 – Jul 2017</span>
             </div>
           </div>
 
