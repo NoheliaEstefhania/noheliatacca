@@ -42,3 +42,4 @@ Este documento registra las tareas planificadas para las siguientes sesiones de 
 
 > [!NOTE]
 > Cada vez que desees completar una de estas tareas, simplemente indícalo en el chat (por ejemplo: *"vamos a agregar el video de Paqocha"* o *"vamos a detallar el curso de Cornell"*).
+
