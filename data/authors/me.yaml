@@ -12,16 +12,16 @@ postnominals:
   - B.S. Systems Engineering
   - B.S. Accounting
 status:
-  icon: "PE"
+  icon: ""
 role: Quechua Language Instructor & Researcher | Systems Engineer
 bio: |
   Systems Engineer and researcher specializing in Indigenous Language Revitalization (Southern Quechua),
   Low-Resource Natural Language Processing (NLP), and Computer-Assisted Language Learning (CALL). Currently
-  Quechua Language Instructor at the Language Center of Universidad Nacional de San AgustÃ­n de Arequipa (UNSA).
-  Fulbright FLTA Fellow alumna (Cornell University, 2025â€“2026).
+  Quechua Language Instructor at the Language Center of Universidad Nacional de San Agustín de Arequipa (UNSA).
+  Fulbright FLTA Fellow alumna (Cornell University, 2025–2026).
 
 affiliations:
-  - name: Universidad Nacional de San AgustÃ­n de Arequipa (UNSA)
+  - name: Universidad Nacional de San Agustín de Arequipa (UNSA)
     url: https://www.unsa.edu.pe/
   - name: Cornell University (Fulbright FLTA Alumni)
     url: https://romancestudies.cornell.edu/
@@ -61,25 +61,25 @@ education:
       url: https://romancestudies.cornell.edu/
       icon: hero/arrow-top-right-on-square
   - degree: Bachelor of Science (B.S.) in Systems Engineering
-    institution: Universidad Nacional de San AgustÃ­n de Arequipa (UNSA), Peru
+    institution: Universidad Nacional de San Agustín de Arequipa (UNSA), Peru
     start: 2020-03-01
     end: 2024-12-31
     summary: |
       Research focus: Software architecture, human-centered computing, and educational technologies for indigenous language preservation and social impact.
   - degree: Bachelor of Science (B.S.) in Accounting
-    institution: Universidad Nacional de San AgustÃ­n de Arequipa (UNSA), Peru
+    institution: Universidad Nacional de San Agustín de Arequipa (UNSA), Peru
     start: 2014-03-01
     end: 2018-12-31
     summary: |
       Quantitative training in financial auditing, resource management, and socio-economic project evaluation.
   - degree: International Exchange Student (CRISCOS Scholar)
-    institution: Universidad CatÃ³lica del Norte (UCN), Antofagasta, Chile
+    institution: Universidad Católica del Norte (UCN), Antofagasta, Chile
     start: 2017-03-01
     end: 2017-07-31
     summary: |
       Public Accounting Program. Full academic exchange scholarship awarded by CRISCOS.
   - degree: International Exchange & Research Seminar
-    institution: Universidad Santo TomÃ¡s (USTAMED), MedellÃ­n, Colombia
+    institution: Universidad Santo Tomás (USTAMED), Medellín, Colombia
     start: 2018-08-01
     end: 2018-12-31
     summary: |
@@ -87,7 +87,7 @@ education:
 
 experience:
   - role: Quechua Language Instructor
-    org: Language Center, Universidad Nacional de San AgustÃ­n (UNSA)
+    org: Language Center, Universidad Nacional de San Agustín (UNSA)
     start: 2025-02-01
     summary: |
       Instruct undergraduate, graduate, and community students in Southern Quechua grammar, oral tradition, and Andean epistemology, integrating digital tools to bridge urban academic spaces with indigenous linguistic heritage.
@@ -210,7 +210,7 @@ awards:
       text: Aspire Leaders Program
       url: https://www.aspireleaders.org/program/aspire-leaders-program
   - title: SIMBig Shared Task - Honorable Mention
-    awarder: SIMBig / Universidad CatÃ³lica San Pablo, Arequipa
+    awarder: SIMBig / Universidad Católica San Pablo, Arequipa
     date: "2026-01-01"
     summary: Awarded Honorable Mention for research on Paqocha Analyzer for Puno Quechua presented at SIMBig 2026.
     icon: hero/trophy
