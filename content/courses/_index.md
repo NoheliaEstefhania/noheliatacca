@@ -1,5 +1,5 @@
 ---
-title: "Teaching & Courses"
+title: "Teaching and Courses"
 summary: "Courses instructed in Quechua Language, Andean Culture, and STEM education at Cornell University and Universidad Nacional de San Agustín (UNSA)."
 view: article-grid
 ---

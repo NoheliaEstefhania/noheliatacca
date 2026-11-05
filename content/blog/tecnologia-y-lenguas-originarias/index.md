@@ -16,7 +16,7 @@ El avance vertiginoso de los modelos de lenguaje y la inteligencia artificial pl
 ### Más allá de la traducción automática
 A menudo, la tecnología para lenguas originarias se aborda únicamente desde una mirada extractiva o instrumental: recolectar datos para entrenar modelos externos. Sin embargo, lenguas polisintéticas y aglutinantes como el Quechua requieren soluciones diseñadas desde su propia lógica morfosintáctica y cultural.
 
-Proyectos como analizadores morfológicos deterministas y modelos de recuperación asistida (RAG) no solo son herramientas técnicas; son puentes que permiten:
+Proyectos como analizadores morfológicos deterministas y modelos de recuperación asistida (RAG) no solo son herramientas técnicas; son puentes (chakakuna) que permiten:
 1. **Apoyar a docentes y aprendices** mediante interfaces interactivas de aprendizaje (CALL).
 2. **Preservar el registro oral espontáneo** respetando las particularidades dialectales de cada región (como el quechua de Puno y Cusco).
 3. **Fomentar la soberanía de datos lingüísticos**, garantizando que las comunidades sean las protagonistas y beneficiarias directas de las innovaciones tecnológicas.
@@ -24,5 +24,5 @@ Proyectos como analizadores morfológicos deterministas y modelos de recuperaci�
 ### Hacia el futuro
 La tecnología debe estar al servicio de la revitalización viva, en las aulas, en los hogares y en las comunidades. Este blog será un espacio para compartir ideas, debates y proyectos en esta intersección entre ingeniería, lingüística y cosmovisión andina.
 
-*¡Allillanchu jamurqanki! Bienvenidos a este diálogo.*
+*¡Allinpuni hamurqanki! Bienvenidos a este diálogo.*
 
