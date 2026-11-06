@@ -2,7 +2,7 @@
 
 > **Documento de Contexto, Arquitectura y Registro de Planes**  
 > **Fecha de creación:** Noviembre 2026  
-> **Última actualización:** 4 de Noviembre de 2026 (Versión 2.0 Estable)  
+> **Última actualización:** 6 de Noviembre de 2026 (Versión 2.1 Estable)  
 > **Autora / Titular:** Nohelia Estefhania Tacca Apaza  
 > **Repositorio GitHub:** [NoheliaEstefhania/noheliatacca](https://github.com/NoheliaEstefhania/noheliatacca)  
 > **URL Pública en Producción:** [https://noheliaestefhania.github.io/noheliatacca/](https://noheliaestefhania.github.io/noheliatacca/)  
@@ -94,13 +94,16 @@ noheliatacca/
 │   └── blog/                          # Sección de opinión/ensayos (oculta de navegación por ahora)
 ├── data/authors/
 │   └── me.yaml                        # 🌟 ARCHIVO CLAVE: Perfil, educación, experiencia, premios, lenguas (UTF-8)
-├── layouts/_partials/                 # Plantillas HTML locales personalizadas
-│   ├── page_links_div.html            # Renderizado seguro de botones de links con Tailwind
-│   ├── functions/build_links.html     # Stub seguro para prevenir errores de Go map
-│   └── hooks/head-end/
-│       ├── github-button.html         # Botón de GitHub
-│       ├── section-anchors.html       # Auto-scroll suave para anclas de submenús (#education, etc.)
-│       └── custom-styles.html         # Normalización de tamaños de título h1 (30px / text-3xl)
+├── layouts/
+│   ├── publications/
+│   │   └── single.html                # Plantilla específica de Research: sin tags, sin share, sin autores
+│   └── _partials/                     # Plantillas HTML locales personalizadas
+│       ├── page_links_div.html        # Renderizado seguro de botones de links con Tailwind
+│       ├── functions/build_links.html # Stub seguro para prevenir errores de Go map
+│       └── hooks/head-end/
+│           ├── github-button.html     # Botón de GitHub
+│           ├── section-anchors.html   # Auto-scroll suave para anclas de submenús (#education, etc.)
+│           └── custom-styles.html     # Normalización de tamaños de título h1 (30px / text-3xl)
 ├── static/
 │   ├── media/projects/                # Carpeta dedicada para miniaturas/fotos de proyectos comunitarios
 │   └── uploads/
@@ -172,6 +175,14 @@ Para transformar la plantilla inicial en un portafolio académico de alta calida
   - Se desactivó la barra de búsqueda innecesaria (`search: false`).
 - **Actualización del CV en PDF:**
   - Carga y publicación del archivo oficial y actualizado en [`static/uploads/resume.pdf`](file:///C:/Users/nohel/Desktop/Portafolio%20Nohelia/noheliatacca/static/uploads/resume.pdf), vinculado al botón *Download CV*.
+
+### Fase 7: Limpieza del Pie de Página en Detalle de Research (`plan-ocultar-pie-research.md`)
+- **Objetivo:** Ocultar exclusivamente en las páginas de detalle de investigación (`/publications/*/`) los 4 bloques del pie de página señalados por la usuaria:
+  1. *Last updated on [Date]* (`last-edited.html`)
+  2. Chips de etiquetas / tags (`tags.html`)
+  3. Botones para compartir en redes sociales (`page_sharer.html`)
+  4. Tarjeta completa de autor/bio (`page_author.html`)
+- **Implementación limpia (Opción 1):** Creación de [`layouts/publications/single.html`](file:///C:/Users/nohel/Desktop/Portafolio%20Nohelia/noheliatacca/layouts/publications/single.html) basada en el layout oficial de Hugo Blox, omitiendo esos 4 componentes del DOM sin afectar a ninguna otra sección del sitio (Events, Teaching, Projects, etc.) y preservando los metadatos frontmatter intactos para indexación académica en Google Scholar. Conserva el paginador sutil de navegación entre publicaciones (`next-in-series`).
 
 ---
 
