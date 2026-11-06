@@ -70,4 +70,4 @@ slides: ""
 - **[Symposium on American Indian Languages (SAIL 2026)](https://sites.google.com/view/sail-uofa/home)**, The University of Arizona, Tucson, AZ. Accepted and presented.
 - **[First Glocal Conference on Quechua Languages and Cultures 2026](https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/c/16/files/2026/02/First-Glocal-Conference-on-Quechua-Languages-and-Cultures-2026-PROGRAM-2-1.pdf)**, University of Pennsylvania & Indiana University Bloomington, Philadelphia, PA. Accepted and presented.
 
-📄 **Read the abstract:** [Document Preview](https://docs.google.com/document/d/1znveU4X_yxw7cipU0u1RbPbrfyweX0D_xcQG2Wm1-Yo/edit?tab=t.0)
+📄 **Read the abstract:** [Program Preview](https://docs.google.com/document/d/1znveU4X_yxw7cipU0u1RbPbrfyweX0D_xcQG2Wm1-Yo/edit?tab=t.0)
